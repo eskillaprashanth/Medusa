@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Medusa App Testing">
+    <test name="API">
+        <classes>
+            <class name="com.medusa.apis.AuthAPIs"/>
+            <class name="com.medusa.apis.CartAPIs"/>
+            <class name="com.medusa.apis.CollectionAPIs"/>
+            <class name="com.medusa.apis.CustomersAPIs"/>
+            <class name="com.medusa.apis.ProductAPIs"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

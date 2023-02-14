@@ -1,0 +1,1 @@
+{"uuid":"6fbea5c6-9513-4b8b-b20e-d9217eba7102","name":"com.medusa.apis.AuthAPIs.setup","children":["d4e57ee7-80bc-41fc-ac33-69e912e1e41b"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1676351348169,"stop":1676351348170}],"afters":[],"start":1676351348169,"stop":1676351348170}

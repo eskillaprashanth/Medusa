@@ -1,0 +1,1 @@
+{"uuid":"244d1d0f-56e0-4416-b6c8-b962c53bac5c","name":"com.medusa.apis.CartAPIs.setup","children":["859c0aaa-55fc-4f7d-9c75-a9b1a3ce46dd"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1676351310618,"stop":1676351310759}],"afters":[],"start":1676351310617,"stop":1676351310759}
